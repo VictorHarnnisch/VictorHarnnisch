@@ -19,7 +19,12 @@
   <img align="center" alt="Vit-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div><br/>
-
+ ![snake gif](https://github.com/VictorHarnnisch/VictorHarnnisch/blob/output/github-contribution-grid-snake-dark.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <div>
  <a href="https://instagram.com/vitinho_deutsch_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/vitinhodeutsch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -34,13 +39,6 @@
 - Data insights em ação: Power BI e rumo à certificação DP-100.<br/>
 - Power BI para visualização, DP-100 para previsão: Dados com propósito.<br/>
 - Transformando dados em conhecimento: Power BI e a jornada DP-100.<br/>
-<div>
-    ![snake gif](https://github.com/VictorHarnnisch/VictorHarnnisch/blob/output/github-contribution-grid-snake-dark.svg)
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
+
 
 
