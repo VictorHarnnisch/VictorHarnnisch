@@ -35,4 +35,4 @@
 - Power BI para visualização, DP-100 para previsão: Dados com propósito.<br/>
 - Transformando dados em conhecimento: Power BI e a jornada DP-100.<br/>
 
-![snake gif](https://github.com/VictorHarnnisch/VictorHarnnisch/blob/output/github-contribution-grid-snake-dracula.svg)
+![snake gif](https://github.com/VictorHarnnisch/VictorHarnnisch/blob/output/github-contribution-grid-snake.svg)
