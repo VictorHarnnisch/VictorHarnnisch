@@ -25,3 +25,4 @@
 - Data insights em ação: Power BI e rumo à certificação DP-100.<br/>
 - Power BI para visualização, DP-100 para previsão: Dados com propósito.<br/>
 - Transformando dados em conhecimento: Power BI e a jornada DP-100.<br/>
+![snake gif](https://github.com/VictorHarnnisch/VictorHarnnisch/blob/output/github-contribution-grid-snake.svg)
