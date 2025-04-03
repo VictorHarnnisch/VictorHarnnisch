@@ -19,7 +19,8 @@
 <img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div><br/>
-### Sou Apaixonado por tecnologia e sede de aprender:<br/>
+
+## Sou Apaixonado por tecnologia e sede de aprender:<br/>
 - Explorando dados, impulsionando decisões: Power BI e preparação para DP-100.<br/>
 - Análise de dados e Machine Learning: Power BI + DP-100 em foco.<br/>
 - Data insights em ação: Power BI e rumo à certificação DP-100.<br/>
