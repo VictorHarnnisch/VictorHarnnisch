@@ -29,6 +29,8 @@
 </div><br/>
 
 ## Sou Apaixonado por tecnologia e sede de aprender:<br/>
+- Programador com vivência em algumas linguagens informadas acima.<br/>
+- Front end ...<br/>
 - Explorando dados, impulsionando decisões: Power BI e preparação para DP-100.<br/>
 - Análise de dados e Machine Learning: Power BI + DP-100 em foco.<br/>
 - Data insights em ação: Power BI e rumo à certificação DP-100.<br/>
