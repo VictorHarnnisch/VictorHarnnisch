@@ -18,7 +18,8 @@
   <img align="center" alt="Vit-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vit-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vit-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-
+  <img align="center" alt="Vit-JQuery" height="20" width="25" src="https://github.com/user-attachments/assets/d14e6d82-a7ce-447c-95bd-ac6d90f222c0">
+  <img align="center" alt="Vit-Spcket.IO" height="20" width="25" src="https://github.com/user-attachments/assets/dd7e019e-bd2f-479a-ab38-a8c91c8c0415">
 </div><br/>
 
 <div>
