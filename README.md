@@ -1,6 +1,6 @@
 ### Olá! Eu sou Victor Harnisch 👏
 - 📎 Trabalho....PatternFlow Analytics
-- 🌱 Estudando Ciências de Dados e para a Certificação da Microsoft DP - 100
+- 🌱 Estudando Engenharia da Computação, uma Pós-Graduação em Engenharia de Dados e IA  e para a Certificação da Microsoft DP - 100
 - 😊 Pronomes: ele/dele
 <div>
  <a href="https://instagram.com/vitinho_deutsch_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
